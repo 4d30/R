@@ -4,7 +4,7 @@ library(car)
 library(lsr)
 
 # Segment 1
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 
 Tes <- read.table("Stats1.13.HW.09.txt", header = T)
 

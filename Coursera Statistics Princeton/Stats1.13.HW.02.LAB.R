@@ -1,7 +1,7 @@
 
 library(psych)
 
-setwd("C:/Users/Dima/Documents/R/coursera/")
+setwd("/home/joey/github/R/Coursera Statistics Princeton//")
 file <- read.table("Stats1.13.HW.02.txt", header=T)
 names(file)
 dim(file) # number of rows

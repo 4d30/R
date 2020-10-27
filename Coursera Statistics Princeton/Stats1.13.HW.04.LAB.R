@@ -5,7 +5,7 @@ library(sm)
 library(plyr)
 
 getwd()
-setwd("C:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # open data
 info <- read.table("Stats1.13.HW.04.txt", header=T)
 

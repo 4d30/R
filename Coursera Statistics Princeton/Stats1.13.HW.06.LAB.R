@@ -1,4 +1,4 @@
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 
 # If necessary, install packages
 # install.packages("psych")
@@ -6,7 +6,7 @@ setwd("c:/Users/Dima/Documents/R/coursera")
 # Load packages
 library(psych)
 
-novy <-  read.table("~/R/coursera/Stats1.13.novy.06.txt", header=T)
+novy <-  read.table("~/R//Stats1.13.novy.06.txt", header=T)
 
 
 

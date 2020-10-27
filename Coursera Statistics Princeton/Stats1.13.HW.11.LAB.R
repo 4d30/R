@@ -4,7 +4,7 @@ library(lsr)
 library(ggplot2)
 library(reshape2)
 
-setwd("C:/Users/Dima/Documents/R/coursera/")
+setwd("/home/joey/github/R/Coursera Statistics Princeton//")
 file <- read.table("Stats1.13.HW.11.txt", header=T)
 
 View(file)

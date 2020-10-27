@@ -15,7 +15,7 @@
 # Check your working directory
 # getwd()
 # If necessary, set your working directory
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 
 # If necessary, install packages
 # install.packages("psych")

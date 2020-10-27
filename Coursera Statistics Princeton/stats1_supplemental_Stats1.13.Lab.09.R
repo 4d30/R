@@ -19,7 +19,7 @@ library(car)
 library(lsr)
 
 # Segment 1
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # Read data into a dataframe called AB
 AB <- read.table("stats1_datafiles_Stats1.13.Lab.09.txt", header = T)
 

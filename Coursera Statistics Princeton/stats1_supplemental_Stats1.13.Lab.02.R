@@ -21,7 +21,7 @@
 # Check your working directory
 # getwd()
 
-setwd("C:/Users/Dima/Documents/R/coursera/")
+setwd("/home/joey/github/R/Coursera Statistics Princeton//")
 
 # If necessary, set your working directory
 

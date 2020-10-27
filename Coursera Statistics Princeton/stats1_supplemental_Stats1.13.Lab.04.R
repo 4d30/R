@@ -20,7 +20,7 @@
 
 # If necessary, install packages
 # install.packages("psych")
-setwd("C:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # Load packages
 library(psych)
 

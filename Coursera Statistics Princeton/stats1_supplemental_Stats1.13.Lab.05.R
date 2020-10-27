@@ -25,7 +25,7 @@
 # Load packages
 library(psych)
 library(ggplot2)
-setwd("C:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # Read data into a dataframe called PE (physical endurance)
 PE <- read.table("stats1_datafiles_Stats1.13.Lab.05.txt", header = T)
 

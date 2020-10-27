@@ -27,7 +27,7 @@
 library(psych)
 library(aod)
 library(QuantPsyc)
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # Read the data into a dataframe called BL
 BL <- read.table("stats1_datafiles_Stats1.13.Lab.10.txt", header = T)
 

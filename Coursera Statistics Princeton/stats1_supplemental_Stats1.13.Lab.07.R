@@ -25,7 +25,7 @@
 # getwd()
 # If necessary, set your working directory
 # setwd("/Volumes/Conway/R")
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # If necessary, install packages
 # install.packages("psych")
 # install.packages("ggplot2")

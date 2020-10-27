@@ -31,7 +31,7 @@
 library(psych)
 library(gclus)
 library(rgl)
-setwd("C:/Users/Dima/Documents/R/coursera/")
+setwd("/home/joey/github/R/Coursera Statistics Princeton//")
 # Read data into a dataframe called impact
 impact <- read.table("stats1_datafiles_Stats1.13.Lab.03.txt", header = T) 
 

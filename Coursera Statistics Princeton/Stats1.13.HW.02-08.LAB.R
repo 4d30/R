@@ -1,6 +1,6 @@
 
 # Segment 1
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # Read data into a dataframe called MOD
 ma <- read.table("Stats1.13.HW.02-08.txt", header = T)
 ma

@@ -3,7 +3,7 @@ library(aod)
 library(QuantPsyc)
 
 
-setwd("c:/Users/Dima/Documents/R/coursera")
+setwd("/home/joey/github/R/Coursera Statistics Princeton/")
 # Read the data into a dataframe called BL
 h10 <- read.table("Stats1.13.HW.10.txt", header = T)
 
